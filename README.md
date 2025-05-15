@@ -26,13 +26,13 @@ This project implements a computer vision system that captures webcam video inpu
 - Start/Stop detection controls
 
 - Backend Setup (Flask)
-cd backend
-pip install -r requirements.txt
-python app.py
+- cd backend
+- pip install -r requirements.txt
+- python app.py
 
 - Frontend Setup (Next.js)
-cd frontend
-npm install
-npm run dev
-Access the frontend at: http://localhost:3000
+- cd frontend
+- npm install
+- npm run dev
+- Access the frontend at: http://localhost:3000
 
