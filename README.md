@@ -1,4 +1,4 @@
-# 🤟 Real-Time Sign Language Detection
+#  Real-Time Sign Language Detection
 
 A real-time American Sign Language (ASL) detection web application that uses a webcam interface built with **Next.js** and a backend powered by **Flask** and a trained deep learning model. The system detects ASL alphabets from video input and displays the interpreted character on screen.
 
